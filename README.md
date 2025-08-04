@@ -3,11 +3,7 @@
 A simple, interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Play as Player **O** or **X** in a classic 3x3 grid — the first to line up three of their symbols wins! If the board fills up with no winner, it's a **draw**.
 
 ---
-
-## 📷 Screenshot
-(game.png)
-
-
+s
 ## 🛠 Features
 
 - ✅ Turn-based gameplay (Player O and X)
